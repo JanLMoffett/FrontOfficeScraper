@@ -10,6 +10,6 @@ Work in Progress!!!
 
 This code imports [requests](https://2.python-requests.org/en/master/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
 
-[FrontOfficeRolodex1.csv](../master/FrontOfficeRolodex1.csv) - _Output of FrontOffice2.py._
+[BaseballOpsRolodex1.csv](../master/BaseballOpsRolodex1.csv) - _Output of FrontOffice2.py._
 
 [CsvStuff.py](../master/CsvStuff.py) - _Module of functions to open and append to csv files._
