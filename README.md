@@ -8,8 +8,10 @@ Work in Progress!!!
 
 [FrontOffice2.py](../master/FrontOffice2.py) - _Iterates through front office directory url's and outputs a csv file containing position titles, names from Baseball Operations tables._
 
-This code imports [requests](https://2.python-requests.org/en/master/) and [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/).
+This code imports [requests](https://2.python-requests.org/en/master/), [BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/), and [CsvStuff](../master/CsvStuff.py).
 
-[BaseballOpsRolodex1.csv](../master/BaseballOpsRolodex1.csv) - _Output of FrontOffice2.py._
+[BaseballOpsRolodex2.csv](../master/BaseballOpsRolodex2.csv) - _Output of FrontOffice2.py._
 
 [CsvStuff.py](../master/CsvStuff.py) - _Module of functions to open and append to csv files._
+
+[CleanRolodex.R](../master/CleanRolodex.R) - _R code to clean output of FrontOffice._
