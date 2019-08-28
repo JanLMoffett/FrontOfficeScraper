@@ -14,5 +14,5 @@ This code imports [requests](https://2.python-requests.org/en/master/), [Beautif
 
 [CleanRolodex.R](../master/CleanRolodex.R) - _R code to clean output of FrontOffice._
 
-[BaseballOpsRolodex3.csv](../master/BaseballOpsRolodex2.csv) - _Output of CleanRolodex.R.  This is the final version of the output - not perfect, but the remaining problems are manageable enough to fix in Excel.  This dataset is meant to be the basis for a contact list with emails, phone numbers, notes, etc._
+[BaseballOpsRolodex3.csv](../master/BaseballOpsRolodex3.csv) - _Output of CleanRolodex.R.  This is the final version of the output - not perfect, but the remaining problems are manageable enough to fix in Excel.  This dataset is meant to be the basis for a contact list with emails, phone numbers, notes, etc._
 
