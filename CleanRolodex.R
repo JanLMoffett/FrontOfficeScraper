@@ -155,7 +155,7 @@ for(i in seq_along(d4_switch[[1]])){
 d5 <- rbind(d4[-switch_rows,],d4_switch)
 
 #writing df to csv file
-write.csv(d5, "BaseballOpsRolodex3.csv")
+write.csv(d5, "BaseballOpsRolodex3.csv",row.names = F)
 
 
 
